@@ -1,5 +1,9 @@
 # workerman-amphp
 
+注：本框架已正式发布为 Wind-Framework: https://github.com/wind-framework .
+
+---
+
 基于 Workerman + Amphp 实现纯 PHP 协程框架。
 
 - Workerman 提供了 Socket 服务器、客户端，进程管理，Channel 等基础组件。
